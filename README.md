@@ -9,7 +9,7 @@ Recently, I decided to transition fully into the blockchain ecosystem. Rust caug
 🌐 Let's connect! If you share a passion for blockchain, Rust, or technology in general, don't hesitate to reach out. You can find me on:
 
 - [Twitter](https://twitter.com/DevvickSam)
-- [GitHub](https://github.com/zarah-s/zarah-s)
+
 
 #### Feedback and Collaboration
 
