@@ -1,8 +1,7 @@
 #### Engineering with Rust & Solidity
 
-As a seasoned full-stack web2 developer, I've spent years crafting web experiences and building scalable applications. Now, I'm embarking on an exciting new chapter — fully immersing myself in the dynamic realm of blockchain development.
+As a seasoned blockchain software engineer, I specialize in crafting robust and secure decentralized applications (dApps) utilizing cutting-edge technologies such as Solidity, Rust, and JavaScript. With a passion for innovation and a keen eye for detail, I thrive on solving complex problems at the intersection of blockchain and software engineering.
 
-Recently, I decided to transition fully into the blockchain ecosystem. Rust caught my attention due to its performance, safety, and versatility, making it an excellent choice for blockchain development. I am excited to leverage my web development skills in this new paradigm and contribute to the evolving world of decentralized applications.
 
 #### Connect with Me
 
